@@ -1,0 +1,7 @@
+.light {
+    background-color: var(--light-theme-background);
+}
+
+.light .link {
+    color: #000;
+}
